@@ -56,3 +56,4 @@ The Jupyter Notebook (`image_denoising_compression.ipynb`) contains detailed res
 *   **Comprehensive Comparison:** A thorough comparison of AE and PCA across RGB/grayscale images and noise application methods.
 
 ![image](https://github.com/user-attachments/assets/364758ec-b9af-4932-b10c-01de7d6155c2)
+![image](https://github.com/user-attachments/assets/85e22abb-b169-4134-b9ea-4280c8057906)
